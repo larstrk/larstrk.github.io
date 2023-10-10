@@ -335,9 +335,11 @@ section {
 }
 
 .experience-details-container {
+    gap: 4rem;
     display: flex;
     justify-content: center;
     flex-direction: column;
+    height: 80%;
 }
 
 .article-container {
