@@ -16,7 +16,7 @@ I am Lars Tuerke, a passionate and dedicated student, self-taught developer, and
 - **Experience**: Completed Harvard's CS50 Introduction to Computer Science
 - **Skills**: Frontend Development, Backend Development, Version Control, UI/UX Design, Data Analysis, Data Visualization, Project Management
 
-Feel free to explore the [About Me](https://larstrk.github.io/about) section for more details and a closer look at my journey.
+Feel free to explore the [About Me](https://larstrk.github.io/#about) section for more details and a closer look at my journey.
 
 ## Projects
 
@@ -28,7 +28,7 @@ In the [Projects](#projects) section, you can find some of the notable projects 
 
 3. **Personal Portfolio**: This very portfolio. [GitHub](https://github.com/larstrk/larstrk.github.io) | Live Demo (Link to your live portfolio)
 
-For more details about each project, visit the [Projects](#projects) section.
+For more details about each project, visit the [Projects]([#projects](https://larstrk.github.io/#projects)) section.
 
 ## Experience
 
@@ -38,7 +38,7 @@ Explore my experience in various areas, including frontend development, backend 
 - **Backend Development**: SQLite3, Flask, Python, Git
 - **Tools**: GitHub, Tableau, Microsoft Office, Confluence/Jira
 
-Visit the [Experience](#experience) section for a detailed breakdown of my skills and experience in different areas.
+Visit the [Experience](https://larstrk.github.io/#experience) section for a detailed breakdown of my skills and experience in different areas.
 
 ## Contact Me
 
