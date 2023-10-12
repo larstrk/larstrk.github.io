@@ -53,4 +53,6 @@ Don't hesitate to get in touch! Let's connect and explore new opportunities toge
 
 Thank you for visiting my portfolio, and I look forward to connecting with you!
 
-&copy; 2023 Lars Tuerke. All Rights Reserved.
+<small><sub>Credits to [How to Become a Developer](https://www.youtube.com/watch?v=ldwlOzRvYOU) for creating the template for this portfolio.</sub></small>
+
+<small><sub>&copy; 2023 Lars Tuerke. All Rights Reserved.</sub></small>
