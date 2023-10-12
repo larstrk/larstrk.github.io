@@ -6,7 +6,7 @@ Welcome to my personal portfolio, where you can explore my skills, projects, and
 - [About Me](#about-me)
 - [Projects](#projects)
 - [Experience](#experience)
-- [Contact Me](#contact)
+- [Contact Me](#contact-me)
 
 ## About Me
 
@@ -20,7 +20,7 @@ Feel free to explore the [About Me](https://larstrk.github.io/#about) section fo
 
 ## Projects
 
-In the [Projects](#projects) section, you can find some of the notable projects I've worked on:
+In the [Projects](https://larstrk.github.io/#projects) section, you can find some of the notable projects I've worked on:
 
 1. **Responsive Farm Game**: A responsive web-based game. [GitHub](https://github.com/larstrk/Farm-Game-Project) | [Demo](https://drive.google.com/drive/folders/1EqFfPR9sp7-repS7uqrWCzZa_YNzD6Q1?usp=sharing)
 
@@ -28,7 +28,7 @@ In the [Projects](#projects) section, you can find some of the notable projects 
 
 3. **Personal Portfolio**: This very portfolio. [GitHub](https://github.com/larstrk/larstrk.github.io) | Live Demo (Link to your live portfolio)
 
-For more details about each project, visit the [Projects]([#projects](https://larstrk.github.io/#projects)) section.
+For more details about each project, visit the [Projects](https://larstrk.github.io/#projects) section.
 
 ## Experience
 
