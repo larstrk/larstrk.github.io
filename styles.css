@@ -352,6 +352,10 @@ section {
     text-align: left; /* Add this line to set text alignment to the left */
 }
 
+.text-container {
+    text-align: justify;
+}
+
 /* Style the div with h3 and p within the article */
 article div {
     flex: 1; /* Allow the div to expand and take available space */
