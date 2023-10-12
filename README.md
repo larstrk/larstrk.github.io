@@ -22,11 +22,11 @@ Feel free to explore the [About Me](https://larstrk.github.io/#about) section fo
 
 In the [Projects](https://larstrk.github.io/#projects) section, you can find some of the notable projects I've worked on:
 
-1. **Responsive Farm Game**: A responsive web-based game. [GitHub](https://github.com/larstrk/Farm-Game-Project) | [Demo](https://drive.google.com/drive/folders/1EqFfPR9sp7-repS7uqrWCzZa_YNzD6Q1?usp=sharing)
+1. **Responsive Farm Game**: A responsive web-based game. 
 
-2. **ClimbersLog**: A project for climbers to log their climbs. [GitHub](https://github.com/larstrk/ClimbersLog) | [Video Demo](https://youtu.be/7ebMZwiKYW8)
+2. **ClimbersLog**: A project for climbers to log their climbs. 
 
-3. **Personal Portfolio**: This very portfolio. [GitHub](https://github.com/larstrk/larstrk.github.io) | Live Demo (Link to your live portfolio)
+3. **Personal Portfolio**: This very portfolio. 
 
 For more details about each project, visit the [Projects](https://larstrk.github.io/#projects) section.
 
