@@ -16,7 +16,7 @@ I am Lars Tuerke, a passionate and dedicated student, self-taught developer, and
 - **Experience**: Completed Harvard's CS50 Introduction to Computer Science
 - **Skills**: Frontend Development, Backend Development, Version Control, UI/UX Design, Data Analysis, Data Visualization, Project Management
 
-Feel free to explore the [About Me](#about-me) section for more details and a closer look at my journey.
+Feel free to explore the [About Me](https://larstrk.github.io/about) section for more details and a closer look at my journey.
 
 ## Projects
 
