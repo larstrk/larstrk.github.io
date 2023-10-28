@@ -152,10 +152,11 @@ a:hover {
 /*SECTION*/
 
 section {
+    min-height: fit-content;
     padding-top: 4vh;
     margin: 0 8rem;
     box-sizing: border-box;
-    min-height: fit-content;
+    
 }
 
 .section-container {
@@ -328,6 +329,8 @@ section {
     position: relative;
 }
 
+
+
 .experience-sub-title {
     color: rgb(85, 85, 85);
     font-weight: 600;
@@ -405,6 +408,44 @@ article .icon {
     color: black;
     border-color: #008080;
 }
+
+
+#current {
+    position: relative;
+}
+
+.progress-bar {
+    width: 100%;
+    background-color: #ccc;
+    border-radius: 20px;
+  }
+  
+  .progress {
+    width: 29%; /* Ändern Sie diese Prozentzahl, um den Fortschritt anzupassen */
+    height: 30px;
+    background-color: #008080; /* Ändern Sie die Farbe nach Bedarf */
+    text-align: center;
+    line-height: 30px;
+    color: white;
+    border-radius: 20px;
+  }
+
+  .progress-wrapper {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .text {
+    padding: 10px;
+  }
+
+  .percent {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
 
 /*CONTACT SECTION*/
 
