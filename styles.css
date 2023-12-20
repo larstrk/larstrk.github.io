@@ -421,7 +421,7 @@ article .icon {
   }
   
   .progress {
-    width: 56%; /* Ändern Sie diese Prozentzahl, um den Fortschritt anzupassen */
+    width: 89%; /* Ändern Sie diese Prozentzahl, um den Fortschritt anzupassen */
     height: 30px;
     background-color: #008080; /* Ändern Sie die Farbe nach Bedarf */
     text-align: center;
