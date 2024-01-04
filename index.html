@@ -8,7 +8,7 @@
     <meta name="description" content="Personal-Portfolio from Lars Tuerke">
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="mediaqueries.css">
-    <link rel="icon" href="./assets/profile-pic.png" type="image/png">
+    <link rel="icon" href="./assets/38379-200.png" type="image/png">
 </head>
 <body>
     <nav id="desktop-nav">
@@ -46,9 +46,11 @@
         <div class="section__text">
             <p class="section__text__p1">Hello, I'm</p>
             <h1 class="title">Lars Tuerke</h1>
-            <p class="section__text__p2">Student / Developer</p>
+            <div class="section__text__p2">
+              <p><span class="typed-text"></span><span class="cursor">&nbsp;</span></p>
+            </div>
             <div class="btn-container">
-                <button class="btn btn-color-2" onclick="window.open('./assets/CV_Tuerke.pdf')">Download CV</button>
+                <button class="btn btn-color-2" onclick="window.open('./assets/CV_Software.pdf')">Download CV</button>
                 <button class="btn btn-color-1" onclick="location.href='./#contact'">Contact Info</button>
             </div>
             <div id="socials-container">
@@ -73,7 +75,7 @@
         <div class="section-container">
             <div class="section__pic-container">
                 <img 
-                src="./assets/about-pic.png" 
+                src="./assets/about-pic-2.png" 
                 alt="Profile picture" 
                 class="about-pic"
                 >
@@ -105,7 +107,7 @@
                       As a developer, my goal is to create a wide range of helpful applications that can make a positive impact. 
                       <br>
                       My journey in the world of tech began with the CS50 course from Harvard University and my work on an AI project at MTU.
-                      I'm familiar with frontend technologies like HTML, CSS, and JavaScript, where I've gained basic skills and first-hand experience. I've also ventured into backend development, exploring tools like SQLite3, PostgreSQL, Flask, Python and Git.
+                      I'm familiar with frontend technologies like HTML, CSS, and JavaScript, where I've gained basic skills and first-hand experience. I've also ventured into backend development, exploring tools like SQLite3, PostgreSQL, Flask, Django and Git.
                       <br>
                       Beyond coding, I enjoy scaling new heights – both in my climbing adventures and my drive to tackle challenges and expand my skills.
                       <br><br>
@@ -186,6 +188,17 @@
                         />
                         <div>
                           <h3>Flask</h3>
+                          <p>Basic</p>
+                        </div>
+                      </article>
+                      <article>
+                        <img
+                          src="./assets/checkmark.png"
+                          alt="Experience icon"
+                          class="icon"
+                        />
+                        <div>
+                          <h3>Django</h3>
                           <p>Basic</p>
                         </div>
                       </article>
@@ -295,19 +308,67 @@
                   class="project-img"
                 />
               </div>
-              <h2 class="experience-sub-title project-title">Responsive Farm Game</h2>
+              <h2 class="experience-sub-title project-title">Farm Game</h2>
               <div class="btn-container">
                 <button
                   class="btn btn-color-2 project-btn"
                   onclick="window.open('https://github.com/larstrk/Farm-Game-Project', '_blank')"
                 >
-                  Github
+                  Code
                 </button>
                 <button
                   class="btn btn-color-2 project-btn"
                   onclick="window.open('https://drive.google.com/drive/folders/1EqFfPR9sp7-repS7uqrWCzZa_YNzD6Q1?usp=sharing', '_blank')"
                 >
                   Demo
+                </button>
+              </div>
+            </div>
+            <div class="details-container color-container">
+              <div class="article-container">
+                <img
+                  src="./assets/Rock-Paper-Scissors-v2.png"
+                  alt="Project 2"
+                  class="project-img"
+                />
+              </div>
+              <h2 class="experience-sub-title project-title">Rock-Paper-Scissors</h2>
+              <div class="btn-container">
+                <button
+                  class="btn btn-color-2 project-btn"
+                  onclick="window.open('https://github.com/larstrk/odin-rock-paper-scissors', '_blank')"
+                >
+                  Code
+                </button>
+                <button
+                  class="btn btn-color-2 project-btn"
+                  onclick="window.open('https://larstrk.github.io/odin-rock-paper-scissors/', '_blank')"
+                >
+                  Live Demo
+                </button>
+              </div>
+            </div>
+            <div class="details-container color-container">
+              <div class="article-container">
+                <img
+                  src="./assets/Etch-a-sketch-v2.png"
+                  alt="Project 1"
+                  class="project-img"
+                />
+              </div>
+              <h2 class="experience-sub-title project-title">Etch-a-Sketch</h2>
+              <div class="btn-container">
+                <button
+                  class="btn btn-color-2 project-btn"
+                  onclick="window.open('https://github.com/larstrk/odin-etch-a-sketch', '_blank')"
+                >
+                  Code
+                </button>
+                <button
+                  class="btn btn-color-2 project-btn"
+                  onclick="window.open('https://larstrk.github.io/odin-etch-a-sketch/', '_blank')"
+                >
+                  Live Demo
                 </button>
               </div>
             </div>
@@ -325,35 +386,11 @@
                   class="btn btn-color-2 project-btn"
                   onclick="window.open('https://github.com/larstrk/ClimbersLog', '_blank')"
                 >
-                  Github
+                  Code
                 </button>
                 <button
                   class="btn btn-color-2 project-btn"
                   onclick="window.open('https://climberslog.de', '_blank')"
-                >
-                  Live Demo
-                </button>
-              </div>
-            </div>
-            <div class="details-container color-container">
-              <div class="article-container">
-                <img
-                  src="./assets/Personal-Portfolio.jpg"
-                  alt="Project 3"
-                  class="project-img"
-                />
-              </div>
-              <h2 class="experience-sub-title project-title">Personal Portfolio</h2>
-              <div class="btn-container">
-                <button
-                  class="btn btn-color-2 project-btn"
-                  onclick="window.open('https://github.com/larstrk/larstrk.github.io', '_blank')" 
-                >
-                  Github
-                </button>
-                <button
-                  class="btn btn-color-2 project-btn"
-                  onclick="location.href='#'"
                 >
                   Live Demo
                 </button>
@@ -370,7 +407,7 @@
     </section>
     <section id="current">
       <p class="section__text__p1">Explore What I'm Working On</p>
-      <h1 class="title">Current Projects</h1>
+      <h1 class="title">Current Project</h1>
       <div class="about-details-container">
         <div class="about-containers">
           <div class="details-container">
@@ -392,12 +429,12 @@
               <div class="progress-wrapper">
                 <div class="text">Foundations</div>
                 <div class="progress-bar">
-                  <div class="progress">89%</div>
+                  <div class="progress">95%</div>
                 </div>
               </div>
               
           </div>
-          <div class="details-container">
+          <!-- <div class="details-container">
             <h3>🧗‍♂️</h3>
             <h3>ClimbersLog</h3>
             <p>Maintaining and improving the application</p>
@@ -408,7 +445,7 @@
               >
                 Live
               </button>
-          </div>
+          </div> -->
           
         </div>
       </div>
@@ -453,7 +490,7 @@
                 </ul>
             </div>
         </nav>
-        <p>Copyright &#169; 2023 Lars Tuerke. All Rights Reserved</p>
+        <p>Copyright &#169; 2024 Lars Tuerke. All Rights Reserved</p>
     </footer>
     <script src="script.js"></script>
 </body>
