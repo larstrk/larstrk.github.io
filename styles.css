@@ -446,8 +446,19 @@ article .icon {
     border-radius: 20px;
   }
   
-  .progress {
-    width: 95%; /* Ändern Sie diese Prozentzahl, um den Fortschritt anzupassen */
+  .progress-foundation {
+    width: 100%; /* Ändern Sie diese Prozentzahl, um den Fortschritt anzupassen */
+    height: 30px;
+    background-color: #008080; /* Ändern Sie die Farbe nach Bedarf */
+    text-align: center;
+    line-height: 30px;
+    color: white;
+    border-radius: 20px;
+
+  }
+
+  .progress-fullstack {
+    width: 3%; /* Ändern Sie diese Prozentzahl, um den Fortschritt anzupassen */
     height: 30px;
     background-color: #008080; /* Ändern Sie die Farbe nach Bedarf */
     text-align: center;
