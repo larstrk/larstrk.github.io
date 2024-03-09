@@ -313,6 +313,7 @@ section {
 .about-details-container {
   justify-content: center;
   flex-direction: column;
+  align-items: center;
 }
 
 .about-containers,
@@ -333,6 +334,7 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
+  max-width: 500px;
   background: white;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
@@ -375,6 +377,7 @@ section {
   justify-content: center;
   flex-direction: column;
   height: 80%;
+  align-items: center;
 }
 
 .article-container {
